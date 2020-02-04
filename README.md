@@ -39,7 +39,7 @@ final_df = voting_results_df.rename(index = {0: "Votes", 1: "Percent"})
 final_df
 ```
 
-### Challenges faced
+### Challenges or Additional Opportunities
 
 One of the challenges I faced was displaying the data in the correct format, especially when using the Pandas library. Pandas is an amazing library for data analysis and the optimized functions allow for specific data summaries at speed, but I had to use quite a bit of hardcode when displaying the final dataframe. 
 
